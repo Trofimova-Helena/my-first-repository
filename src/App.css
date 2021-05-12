@@ -1,0 +1,72 @@
+.container {
+	width: 90%;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.for-background {
+	background-repeat: no-repeat;
+	background-image: url(https://myslide.ru/documents_2/be57d8461fa22179fdb78d97338cde06/img0.jpg);
+	background-size: 100%;
+	height: 1000px;
+}
+
+.main-menu {
+	display: flex;
+	justify-content: space-around;
+}
+
+.title {
+	display: flex;
+	justify-content: space-between;
+	width: 80%;
+}
+
+.textar-style {
+	width: 300px;
+	height: 100px;
+	border-color: #d2225e;
+	box-shadow: 0 0 10px #ca92a5;
+}
+
+.disp-none {
+	display: none;
+} 
+
+.disp-block {
+	display: block;
+}
+
+.for-input {
+	display: flex;
+	align-items: center;
+}
+
+.btn {
+	position: absolute;
+	text-decoration: none;
+}
+
+.setBackgroundColor {
+	background-color: yellow;
+}
+
+.setBackgroundColor1 {
+	background-color: #fff;
+}
+
+.space {
+	margin-left: 10px;
+}
+
+.find {
+	margin-bottom: 50px;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.list-decor {
+	color: #d2225e;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
